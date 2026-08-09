@@ -275,9 +275,10 @@ It's about understanding the problem, choosing the right tools, making sensible 
 
 <div align="center">
 
-## `/CT`
+## [`/CT`](https://chintantrada.vercel.app/)
 
-### AI · ENGINEERING · SYSTEMS
+<!-- ### AI · ENGINEERING · SYSTEMS -->
+### MOVE · ENGINEER · INTELLIGENCE
 
 <br/>
 
@@ -287,6 +288,10 @@ It's about understanding the problem, choosing the right tools, making sensible 
 
 <a href="mailto:chintantrada321@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact_Me-080A0D?style=for-the-badge&logo=gmail&logoColor=B9FF47" />
+</a>
+
+<a href="https://chintantrada.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/%2FCT-Portfolio-080A0D?style=for-the-badge&logoColor=B9FF47" />
 </a>
 
 <br/><br/>
